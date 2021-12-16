@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: 6c8703fbbeac8f640976c027bebded5c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: A200Body
+    100004: gum171
+    100006: gum172
+    100008: gum173
+    100010: gum95
+    100012: Spoiler_A
+    100014: Spoiler_B
+    100016: TireFL5
+    100018: TireFL6
+    100020: TireFL7
+    100022: TireFL8
+    100024: Wheel01
+    100026: Wheel02
+    100028: Wheel03
+    100030: Wheel04
+    100032: wheel04_pivot
+    100034: wheel04_pivot1
+    100036: wheel04_pivot2
+    100038: wheel04_pivot3
+    100040: Wheels_A
+    100042: Wheels_B
+    100044: Wheels_C
+    100046: Wheels_D
+    400000: //RootNode
+    400002: A200Body
+    400004: gum171
+    400006: gum172
+    400008: gum173
+    400010: gum95
+    400012: Spoiler_A
+    400014: Spoiler_B
+    400016: TireFL5
+    400018: TireFL6
+    400020: TireFL7
+    400022: TireFL8
+    400024: Wheel01
+    400026: Wheel02
+    400028: Wheel03
+    400030: Wheel04
+    400032: wheel04_pivot
+    400034: wheel04_pivot1
+    400036: wheel04_pivot2
+    400038: wheel04_pivot3
+    400040: Wheels_A
+    400042: Wheels_B
+    400044: Wheels_C
+    400046: Wheels_D
+    2100000: Chromo_mat
+    2100002: MetaisPretos_mat
+    2100004: Roda_mat
+    2100006: Pneu_mat
+    2100008: red
+    2100010: r glass
+    2100012: white
+    2100014: int
+    2100016: CarroPintura_mat
+    2100018: glass
+    2100020: 10 - Default
+    2100022: d glass
+    2100024: dash
+    2100026: light
+    2100028: grey
+    2100030: light red
+    2100032: phong1
+    2100034: bumpy_gum
+    2100036: plate
+    2100038: logo
+    2300000: A200Body
+    2300002: gum171
+    2300004: gum172
+    2300006: gum173
+    2300008: gum95
+    2300010: Spoiler_A
+    2300012: Spoiler_B
+    2300014: TireFL5
+    2300016: TireFL6
+    2300018: TireFL7
+    2300020: TireFL8
+    2300022: Wheel01
+    2300024: Wheel02
+    2300026: Wheel03
+    2300028: Wheel04
+    2300030: wheel04_pivot
+    2300032: wheel04_pivot1
+    2300034: wheel04_pivot2
+    2300036: wheel04_pivot3
+    3300000: A200Body
+    3300002: gum171
+    3300004: gum172
+    3300006: gum173
+    3300008: gum95
+    3300010: Spoiler_A
+    3300012: Spoiler_B
+    3300014: TireFL5
+    3300016: TireFL6
+    3300018: TireFL7
+    3300020: TireFL8
+    3300022: Wheel01
+    3300024: Wheel02
+    3300026: Wheel03
+    3300028: Wheel04
+    3300030: wheel04_pivot
+    3300032: wheel04_pivot1
+    3300034: wheel04_pivot2
+    3300036: wheel04_pivot3
+    4300000: Wheel01
+    4300002: Wheel02
+    4300004: Wheel03
+    4300006: Wheel04
+    4300008: A200Body
+    4300010: wheel04_pivot
+    4300012: wheel04_pivot1
+    4300014: wheel04_pivot2
+    4300016: wheel04_pivot3
+    4300018: TireFL7
+    4300020: TireFL8
+    4300022: TireFL5
+    4300024: TireFL6
+    4300026: gum95
+    4300028: gum171
+    4300030: gum172
+    4300032: gum173
+    4300034: Spoiler_A
+    4300036: Spoiler_B
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CarroPintura_mat
+    second: {fileID: 2100000, guid: 3c44fb7a606844c42a104791a5d022dd, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="garage_bw_simple" size="4.000000 2.876667" />
+    <ImageTarget name="Car_Wheels" size="4.000000 2.769231" />
+    <ImageTarget name="Car_Spoilers" size="4.000000 2.769231" />
+    <ImageTarget name="garage_bw" size="8.000000 6.627692" />
+  </Tracking>
+</QCARConfig>
